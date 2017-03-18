@@ -22,7 +22,7 @@
   "homepage": "https://github.com/haoliangyu/gtran-kml#readme",
   "dependencies": {
     "elementtree": "^0.1.6",
-    "tokml": "^0.4.0"
+    "tokml": "https://github.com/totalpave/tokml.git#tp1.0"
   },
   "devDependencies": {
     "chai": "^3.4.1",
